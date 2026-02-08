@@ -1,0 +1,8 @@
+chocolate-venv
+data
+src/models
+src/report
+*.csv
+*.pdf
+*.ipynb_checkpoints
+*__pycache__.py
